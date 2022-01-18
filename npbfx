@@ -1,0 +1,1418 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="ru-RU">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="ru-RU">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="ru-RU">
+<!--<![endif]-->
+<head>
+	<meta name="viewport" content="width=1250px, minimum-scale=0.1, user-scalable=yes">
+<link rel="icon" href="https://www.npbfx-official.com/wp-content/uploads/2014/08/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://www.npbfx-official.com/wp-content/uploads/2014/08/favicon.ico" type="image/x-icon" />
+<meta charset="UTF-8" />
+<meta name="robots" content="noindex, nofollow"/> 
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="address=no">
+<meta name="google-site-verification" content="P0EkKevWLcLqcHZ9JtJjQfMFflfBa6tZ9kKoAjXmQ50" />
+<meta name="yandex-verification" content="89156035ba4c92a9" />
+<title>www.npbfx-official.com | Услуги на рынке Форекс</title>
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://www.npbfx-official.com/xmlrpc.php" />
+<link href="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/css/chosen.css" rel="stylesheet" />
+<link href="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/css/jquery-ui-datepicker.css" rel="stylesheet" />
+<link href="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/css/royalslider.css" rel="stylesheet" />
+<link href="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/fix12.css" rel="stylesheet" />
+<!--[if IE 8]>
+<link href="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/css/ie8.css" rel="stylesheet" />
+<![endif]-->
+<script type="text/javascript" src="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/js/jquery.js"></script>
+<script type="text/javascript" src="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/js/plugins.js"></script>
+<script type="text/javascript" src="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/js/main.js"></script>
+<script type="text/javascript" src="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/js/jquery.royalslider.min.js"></script>
+<script type="text/javascript" src="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/js/royalslider.init.js"></script>
+<script type="text/javascript" src="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/ls/lscommons.js"></script>
+<script type="text/javascript" src="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/ls/lspushpage.js"></script>
+
+<script type="text/javascript">
+	// var lang = getCookie('lang');
+// 	if(!lang){
+// 		 var userLang = navigator.language || navigator.userLanguage;
+// 		 userLang = userLang.split('-')[0];
+// 		 if(window.location.pathname != "/"+userLang+"/") {
+// 			 switch(userLang){
+// 				case 'en': window.location.href = "http://www.npbfx.com/en/"; break;
+// 				// case 'es': window.location.href = "http://www.npbfx.com/es/"; break;
+// 				// case 'th': window.location.href = "http://www.npbfx.com/th/"; break;
+// 				case 'id': window.location.href = "http://www.npbfx.com/id/"; break;
+// 				case 'ms': window.location.href = "http://www.npbfx.com/ms/"; break;
+// 				// case 'vi': window.location.href = "http://www.npbfx.com/vi/"; break;
+// 				case 'ru': window.location.href = "http://www.npbfx-official.com/"; break;
+// 				// case 'ar': window.location.href = "http://www.npbfx.com/ar/"; break;
+// 				default: window.location.href = "http://www.npbfx.com/en/"; break;
+// 			 }
+// 		 }
+// 	}
+// 	 setCookie('lang', userLang);
+// 	 function setCookie(cname, cvalue, exdays) {
+// 	     var d = new Date();
+// 	     d.setTime(d.getTime() + (exdays*24*60*60*1000));
+// 	     var expires = "expires="+ d.toUTCString();
+// 	     document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+// 	 }
+// 	 function getCookie(cname) {
+// 	     var name = cname + "=";
+// 	     var ca = document.cookie.split(';');
+// 	     for(var i = 0; i <ca.length; i++) {
+// 	         var c = ca[i];
+// 	         while (c.charAt(0)==' ') {
+// 	             c = c.substring(1);
+// 	         }
+// 	         if (c.indexOf(name) == 0) {
+// 	             return c.substring(name.length,c.length);
+// 	         }
+// 	     }
+// 	     return "";
+// 	 }
+	 
+ </script>
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="www.npbfx-official.com &raquo; Лента" href="https://www.npbfx-official.com/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.npbfx-official.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.21"}};
+			!function(t,a,e){var r,n,i,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(i=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},n=0;n<i.length;n++)e.supports[i[n]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),o.toDataURL().length<3e3)?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,65039,8205,55356,57096),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,55356,57096),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55357,56425,55356,57341,8205,55357,56507),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55357,56425,55356,57341,55357,56507),0,0),e!==o.toDataURL()}return!1}(i[n]),e.supports.everything=e.supports.everything&&e.supports[i[n]],"flag"!==i[n]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[i[n]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='specification-datatables-css'  href='https://www.npbfx-official.com/wp-content/plugins/global/wp-moduls/specification/datatables/css/datatables.min.css?ver=66' type='text/css' media='all' />
+<link rel='stylesheet' id='tooltipster-css'  href='https://www.npbfx-official.com/wp-content/plugins/global/wp-moduls/specification/tooltipster/css/tooltipster.bundle.min.css?ver=66' type='text/css' media='all' />
+<link rel='stylesheet' id='specification-css'  href='https://www.npbfx-official.com/wp-content/plugins/global/wp-moduls/specification/specification.css?ver=66' type='text/css' media='all' />
+<link rel='stylesheet' id='trader-css'  href='https://www.npbfx-official.com/wp-content/plugins/global/wp-moduls/trader/trader.css?ver=66' type='text/css' media='all' />
+<link rel='stylesheet' id='registration-data-css'  href='https://www.npbfx-official.com/wp-content/plugins/registration-forms/registration-data.css?ver=66' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='https://www.npbfx-official.com/wp-content/plugins/wp-polls/polls-css.css?ver=66' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('https://www.npbfx-official.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&#038;subset=latin%2Clatin-ext%2Ccyrillic%2Ccyrillic-ext&#038;ver=66' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/style.css?v=1642223751&#038;ver=66' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/css/ie.css?ver=66' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='https://www.npbfx-official.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.npbfx-official.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.npbfx-official.com/wp-content/plugins/global/wp-moduls/specification/datatables/js/jquery.dataTables.min.js?ver=4.7.21'></script>
+<script type='text/javascript' src='https://www.npbfx-official.com/wp-content/plugins/global/wp-moduls/specification/datatables/js/dataTables.fixedHeader.min.js?ver=4.7.21'></script>
+<script type='text/javascript' src='https://www.npbfx-official.com/wp-content/plugins/global/wp-moduls/specification/tooltipster/js/tooltipster.bundle.min.js?ver=4.7.21'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var specification_js = {"blog_lang":"","translate_js_1":"\u041f\u043e\u0438\u0441\u043a","translate_js_2":"\u041d\u0435\u0442 \u0434\u0430\u043d\u043d\u044b\u0445","translate_js_3":"\u0417\u0430\u0433\u0440\u0443\u0437\u043a\u0430 ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.npbfx-official.com/wp-content/plugins/global/wp-moduls/specification/specification.js?ver=1397795806'></script>
+<script type='text/javascript' src='https://www.npbfx-official.com/wp-content/plugins/global/wp-moduls/chosen/chosen.jquery.min.js?ver=4.7.21'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var trader_tools = [{"tools_name":"EURUSD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"EUR","tools_quotation":"USD","tools_basetousd":"#EURUSD","tools_quotationtousd":"1","tools_default":true,"tools_hide":false,"tools_commission":"0"},{"tools_name":"USDJPY","tools_size":"0.01","tools_format":"0.000","tools_lot":"100 000","tools_base":"USD","tools_quotation":"JPY","tools_basetousd":"1","tools_quotationtousd":"1 \/ #USDJPY","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"GBPUSD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"GBP","tools_quotation":"USD","tools_basetousd":"#GBPUSD","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"USDCHF","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"USD","tools_quotation":"CHF","tools_basetousd":"1","tools_quotationtousd":"1 \/ #USDCHF","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"EURJPY","tools_size":"0.01","tools_format":"0.000","tools_lot":"100 000","tools_base":"EUR","tools_quotation":"JPY","tools_basetousd":"#EURUSD","tools_quotationtousd":"1 \/ #USDJPY","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"EURGBP","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"EUR","tools_quotation":"GBP","tools_basetousd":"#EURUSD","tools_quotationtousd":"#GBPUSD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"EURCHF","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"EUR","tools_quotation":"CHF","tools_basetousd":"#EURUSD","tools_quotationtousd":"1 \/ #USDCHF","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"GBPJPY","tools_size":"0.01","tools_format":"0.000","tools_lot":"100 000","tools_base":"GBP","tools_quotation":"JPY","tools_basetousd":"#GBPUSD","tools_quotationtousd":"1 \/ #USDJPY","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"GBPCHF","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"GBP","tools_quotation":"CHF","tools_basetousd":"#GBPUSD","tools_quotationtousd":"1 \/ #USDCHF","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"AUDUSD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"AUD","tools_quotation":"USD","tools_basetousd":"#AUDUSD","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"USDCAD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"USD","tools_quotation":"CAD","tools_basetousd":"1","tools_quotationtousd":"1 \/ #USDCAD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"NZDUSD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"NZD","tools_quotation":"USD","tools_basetousd":"#NZDUSD","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"AUDCAD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"AUD","tools_quotation":"CAD","tools_basetousd":"#AUDUSD","tools_quotationtousd":"1 \/ #USDCAD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"AUDCHF","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"AUD","tools_quotation":"CHF","tools_basetousd":"#AUDUSD","tools_quotationtousd":"1 \/ #USDCHF","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"AUDJPY","tools_size":"0.01","tools_format":"0.000","tools_lot":"100 000","tools_base":"AUD","tools_quotation":"JPY","tools_basetousd":"#AUDUSD","tools_quotationtousd":"1 \/ #USDJPY","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"AUDNZD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"AUD","tools_quotation":"NZD","tools_basetousd":"#AUDUSD","tools_quotationtousd":"#NZDUSD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"CHFJPY","tools_size":"0.01","tools_format":"0.000","tools_lot":"100 000","tools_base":"CHF","tools_quotation":"JPY","tools_basetousd":"1 \/ #USDCHF","tools_quotationtousd":"1 \/ #USDJPY","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"EURAUD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"EUR","tools_quotation":"AUD","tools_basetousd":"#EURUSD","tools_quotationtousd":"#AUDUSD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"EURCAD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"EUR","tools_quotation":"CAD","tools_basetousd":"#EURUSD","tools_quotationtousd":"1 \/ #USDCAD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"GBPCAD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"GBP","tools_quotation":"CAD","tools_basetousd":"#GBPUSD","tools_quotationtousd":"1 \/ #USDCAD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"GBPAUD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"GBP","tools_quotation":"AUD","tools_basetousd":"#GBPUSD","tools_quotationtousd":"#AUDUSD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"EURNZD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"EUR","tools_quotation":"NZD","tools_basetousd":"#EURUSD","tools_quotationtousd":"#NZDUSD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"GBPNZD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"GBP","tools_quotation":"NZD","tools_basetousd":"#GBPUSD","tools_quotationtousd":"#NZDUSD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"NZDCAD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"NZD","tools_quotation":"CAD","tools_basetousd":"#NZDUSD","tools_quotationtousd":"1 \/ #USDCAD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"NZDCHF","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"NZD","tools_quotation":"CHF","tools_basetousd":"#NZDUSD","tools_quotationtousd":"1 \/ #USDCHF","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"CADCHF","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"CAD","tools_quotation":"CHF","tools_basetousd":"1 \/ #USDCAD","tools_quotationtousd":"1 \/ #USDCHF","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"NZDJPY","tools_size":"0.01","tools_format":"0.00000","tools_lot":"100 000","tools_base":"NZD","tools_quotation":"JPY","tools_basetousd":"#NZDUSD","tools_quotationtousd":"1 \/ #USDJPY","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"CADJPY","tools_size":"0.01","tools_format":"0.00000","tools_lot":"100 000","tools_base":"CAD","tools_quotation":"JPY","tools_basetousd":"1 \/ #USDCAD","tools_quotationtousd":"1 \/ #USDJPY","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"USDRUB","tools_size":"0.01","tools_format":"0.00000","tools_lot":"100 000","tools_base":"USD","tools_quotation":"RUB","tools_basetousd":"1","tools_quotationtousd":"1 \/ #USDRUB","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"EURRUB","tools_size":"0.01","tools_format":"0.00000","tools_lot":"100 000","tools_base":"EUR","tools_quotation":"RUB","tools_basetousd":"#EURUSD","tools_quotationtousd":"1 \/ #USDRUB","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"USDDKK","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"USD","tools_quotation":"DKK","tools_basetousd":"1","tools_quotationtousd":"1 \/ #USDDKK","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"USDHKD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"USD","tools_quotation":"HKD","tools_basetousd":"1","tools_quotationtousd":"1 \/ #USDHKD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"USDMXN","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"USD","tools_quotation":"MXN","tools_basetousd":"1","tools_quotationtousd":"1 \/ #USDMXN","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"USDNOK","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"USD","tools_quotation":"NOK","tools_basetousd":"1","tools_quotationtousd":"1 \/ #USDNOK","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"USDSEK","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"USD","tools_quotation":"SEK","tools_basetousd":"1","tools_quotationtousd":"1 \/ #USDSEK","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"USDSGD","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"USD","tools_quotation":"SGD","tools_basetousd":"1","tools_quotationtousd":"1 \/ #USDSGD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"USDTRY","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"USD","tools_quotation":"TRY","tools_basetousd":"1","tools_quotationtousd":"1 \/ #USDTRY","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"USDZAR","tools_size":"0.0001","tools_format":"0.00000","tools_lot":"100 000","tools_base":"USD","tools_quotation":"ZAR","tools_basetousd":"1","tools_quotationtousd":"1 \/ #USDZAR","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"XAGUSD","tools_size":"0.0001","tools_format":"0.0000","tools_lot":"5 000","tools_base":"XAG","tools_quotation":"USD","tools_basetousd":"#XAGUSD","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"XAUUSD","tools_size":"0.01","tools_format":"0.000","tools_lot":"100","tools_base":"XAU","tools_quotation":"USD","tools_basetousd":"#XAUUSD","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"XBRUSD","tools_size":"0.01","tools_format":"0.00","tools_lot":"1 000","tools_base":"XBR","tools_quotation":"USD","tools_basetousd":"#XBRUSD","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"XTIUSD","tools_size":"0.01","tools_format":"0.00","tools_lot":"1 000","tools_base":"XTI","tools_quotation":"USD","tools_basetousd":"#XTIUSD","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"XNGUSD","tools_size":"0.001","tools_format":"0.000","tools_lot":"10 000","tools_base":"XNG","tools_quotation":"USD","tools_basetousd":"#XNGUSD","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"BCHUSD","tools_size":"1","tools_format":"0.000","tools_lot":"10","tools_base":"BCH","tools_quotation":"USD","tools_basetousd":"#BCHUSD","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"BTCUSD","tools_size":"1","tools_format":"0.000","tools_lot":"1","tools_base":"BTC","tools_quotation":"USD","tools_basetousd":"#BTCUSD","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"DSHUSD","tools_size":"1","tools_format":"0.00000","tools_lot":"10","tools_base":"DSH","tools_quotation":"USD","tools_basetousd":"#DSHUSD","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"ETHUSD","tools_size":"1","tools_format":"0.00000","tools_lot":"10","tools_base":"ETH","tools_quotation":"USD","tools_basetousd":"#ETHUSD","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"LTCUSD","tools_size":"1","tools_format":"0.00000","tools_lot":"100","tools_base":"LTC","tools_quotation":"USD","tools_basetousd":"#LTCUSD","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"XRPUSD","tools_size":"0.001","tools_format":"0.00000","tools_lot":"100 00","tools_base":"XRP","tools_quotation":"USD","tools_basetousd":"#XRPUSD","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"ASX200","tools_size":"0.1","tools_format":"0.0","tools_lot":"10","tools_base":"AUD","tools_quotation":"AUD","tools_basetousd":"1","tools_quotationtousd":"#AUDUSD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"STOXX50","tools_size":"0.1","tools_format":"0.0","tools_lot":"10","tools_base":"EUR","tools_quotation":"EUR","tools_basetousd":"1","tools_quotationtousd":"#EURUSD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"CAC40","tools_size":"0.1","tools_format":"0.0","tools_lot":"10","tools_base":"EUR","tools_quotation":"EUR","tools_basetousd":"1","tools_quotationtousd":"#EURUSD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"DAX30","tools_size":"0.1","tools_format":"0.0","tools_lot":"10","tools_base":"EUR","tools_quotation":"EUR","tools_basetousd":"1","tools_quotationtousd":"#EURUSD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"HSI50","tools_size":"0.1","tools_format":"0.0","tools_lot":"10","tools_base":"HKD","tools_quotation":"HKD","tools_basetousd":"1","tools_quotationtousd":"1\/#USDHKD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"NIKKEI225","tools_size":"1","tools_format":"0","tools_lot":"1000","tools_base":"JPY","tools_quotation":"JPY","tools_basetousd":"1","tools_quotationtousd":"1 \/ #USDJPY","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"IBEX35","tools_size":"0.1","tools_format":"0.0","tools_lot":"10","tools_base":"EUR","tools_quotation":"EUR","tools_basetousd":"1","tools_quotationtousd":"#EURUSD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"FTSE100","tools_size":"0.1","tools_format":"0.0","tools_lot":"10","tools_base":"GBP","tools_quotation":"GBP","tools_basetousd":"1","tools_quotationtousd":"#GBPUSD","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"S&P500","tools_size":"0.1","tools_format":"0.0","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"NASDAQ100","tools_size":"0.1","tools_format":"0.0","tools_lot":"10","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"DJI30","tools_size":"1","tools_format":"0","tools_lot":"1","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#AAPL","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#AMZN","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#BA","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#DIS","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#F","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#FB","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#GS","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#INTC","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#JNJ","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#JPM","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#KO","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#MCD","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#MS","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#MRVL","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#MSFT","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#NKE","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#NFLX","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#NVDA","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#PFE","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#PEP","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#PYPL","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#TSLA","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#UBER","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"},{"tools_name":"#V","tools_size":"0.01","tools_format":"0.00","tools_lot":"100","tools_base":"USD","tools_quotation":"USD","tools_basetousd":"1","tools_quotationtousd":"1","tools_default":false,"tools_hide":false,"tools_commission":"0"}];
+var trader_leverage = [{"leverage_name":"1:1","leverage_value":"1","leverage_default":false},{"leverage_name":"1:5","leverage_value":"5","leverage_default":false},{"leverage_name":"1:10","leverage_value":"10","leverage_default":false},{"leverage_name":"1:25","leverage_value":"25","leverage_default":false},{"leverage_name":"1:50","leverage_value":"50","leverage_default":false},{"leverage_name":"1:100","leverage_value":"100","leverage_default":false},{"leverage_name":"1:200","leverage_value":"200","leverage_default":true},{"leverage_name":"1:500","leverage_value":"500","leverage_default":false},{"leverage_name":"1:1000","leverage_value":"1000","leverage_default":false}];
+var trader_currency = [{"currence_value":"USD","currence_rate":"1","currence_default":true},{"currence_value":"EUR","currence_rate":"1 \/ #EURUSD","currence_default":false},{"currence_value":"RUB","currence_rate":"#USDRUB","currence_default":false}];
+var trader_swap_link = "www.npbfx-official.com\/trading\/swap-points\/";
+var trader_formula_price = "tools[1]  * value * tools[3] * tools[7] * currency[1]";
+var trader_formula_point = "swap_points";
+var trader_formula_currence = "swap_points * point_price";
+var trader_formula_commission = "value * tools[10] * currency[1]";
+var trader_formula_margin = "(tools[5]==\"RUB\" && currency[0]==\"RUB\") ? (value * (tools[3] \/ leverage[1]) * price_open) : ((tools[5]==\"USD\" && tools[4]!=currency[0]) ? (value * (tools[3] \/ leverage[1]) * price_open * currency[1]) : ((tools[4]==tools[5]) ? (value * (tools[3] \/ leverage[1]) * price_open * currency[1] * tools[7]) :(value * (tools[3] \/ leverage[1]) * tools[6] * currency[1])))";
+var trader_formula_profit_buy = "value * tools[3] * (price_close - price_open) * tools[7] * currency[1]";
+var trader_formula_profit_sell = "value * tools[3] * (price_open - price_close) * tools[7] * currency[1]";
+var lang_trader_result_1 = "\u0421\u0442\u043e\u0438\u043c\u043e\u0441\u0442\u044c \u043f\u0443\u043d\u043a\u0442\u0430";
+var lang_trader_result_2 = "\u0421\u0432\u043e\u043f, \u043f\u0443\u043d\u043a\u0442\u044b";
+var lang_trader_result_3 = "\u0421\u0432\u043e\u043f, \u0432\u0430\u043b\u044e\u0442\u0430 \u0441\u0447\u0435\u0442\u0430";
+var lang_trader_result_4 = "\u041a\u043e\u043c\u0438\u0441\u0441\u0438\u044f";
+var lang_trader_result_5 = "\u041c\u0430\u0440\u0436\u0430";
+var lang_trader_result_6 = "\u041f\u0440\u0438\u0431\u044b\u043b\u044c";
+var lang_trader_result_7 = "\u0420\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0440\u0430\u0441\u0447\u0435\u0442\u0430:";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.npbfx-official.com/wp-content/plugins/global/wp-moduls/trader/trader.js?ver=4.7.21'></script>
+<script type='text/javascript' src='https://www.npbfx-official.com/wp-content/plugins/global/wp-moduls/jquerymask/jquery.inputmask.js?ver=4.7.21'></script>
+<script type='text/javascript' src='https://www.npbfx-official.com/wp-content/plugins/global/wp-moduls/jquerymask/jquerymask.js?ver=4.7.21'></script>
+<script type='text/javascript' src='https://www.npbfx-official.com/wp-content/plugins/registration-forms/registration-data.js?ver=4.7.21'></script>
+<link rel='https://api.w.org/' href='https://www.npbfx-official.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.npbfx-official.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.npbfx-official.com/wp-includes/wlwmanifest.xml" /> 
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-56H73ST');</script>
+<!-- End Google Tag Manager --> 
+ 
+ 
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1946587058898730'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1946587058898730&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<!-- VK Pixel Code --> 
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=c9h9u4zbsjeiMYOdU3fzdnrMttfcukGNSSbM9LO0dJF/7OJvP*UfQO*ZtVCLvVb87UIE1ULtucJcaIK5CjOZuCTeMnCofoOeQM3rk8o*imyp/UHx4a*Kf8kLptaGhjuVdAHTSs/hMjBNmJi*RqEUqoCR1ul7kdnvmJoDv*AujdI-&pixel_id=1000085332';</script>
+<!-- End VK Pixel Code --> 
+
+</head>
+
+<body class="home blog custom-font-enabled">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-56H73ST"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Intercom BEGIN -->
+<script>window.intercomSettings = { app_id: 'rwh77rkx', language_override: 'ru', language_po: 'ru'};(function () {var w = window;var app_id = w.intercomSettings.app_id;var ic = w.Intercom;if (typeof ic === 'function') {ic('reattach_activator');ic('update', w.intercomSettings);} else {var d = document;var i = function () {i.c(arguments);};i.q = [];i.c = function (args) {i.q.push(args);};w.Intercom = i;var l = function () {var s = d.createElement('script');s.type = 'text/javascript';s.async = true;s.src = 'https://widget.intercom.io/widget/' + app_id;var x = d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);};if (w.attachEvent) {w.attachEvent('onload', l);} else {w.addEventListener('load', l, false);}}})();function showMessenger() {Intercom('show');}</script>
+<!-- Intercom END -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-69493065-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-69493065-1');
+</script>
+<!-- /Global site tag (gtag.js) - Google Analytics -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter33333648 = new Ya.Metrika({
+                    id:33333648,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/33333648" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<div class="wrapper">
+	<div class="header limit">
+		<div class="logo">
+			<a href="https://www.npbfx-official.com"><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/Logo_grey_new2.png"/></a>
+		</div>
+        <div class="header-right">
+            <div class="top">
+                                <div class="language">
+                    <div id="lang_sel">
+                        <ul>
+							                            <li>
+                                <a href="#" class="lang_sel_sel icl-ru"><img class="iclflag" src="https://www.npbfx-official.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png" alt="ru" title="Русский">&nbsp;Русский</a>
+                                <ul>
+									                                    <li class="icl-en">
+                                        <a href="http://www.npbfx.com/en/">
+                                            <img class="iclflag" src="https://www.npbfx-official.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png">&nbsp;English
+                                        </a>
+                                    </li>
+																		                                    <!-- <li class="icl-es">
+                                        <a href="http://www.npbfx.com/es/">
+                                            <img class="iclflag" src="https://www.npbfx-official.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png">&nbsp;Испанский
+                                        </a>
+                                    </li> -->
+																		                                    <!-- <li class="icl-th">
+                                        <a href="http://www.npbfx.com/th/">
+                                            <img class="iclflag" src="https://www.npbfx-official.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/th.png">&nbsp;Тайский
+                                        </a>
+                                    </li> -->
+																		                                    <li class="icl-id">
+                                        <a href="http://www.npbindonesia.com/"> 
+                                            <img class="iclflag" src="https://www.npbfx-official.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/id.png">&nbsp;Indonesia
+                                        </a>
+                                    </li>
+																		                                    <li class="icl-ms">
+                                        <a href="http://www.npbfx.com/ms/">
+                                            <img class="iclflag" src="https://www.npbfx-official.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ms.png">&nbsp;Malaysia
+                                        </a>
+                                    </li>
+																		                                    <li class="icl-vi">
+                                        <a href="http://www.npbfx.com/vi/">
+                                            <img class="iclflag" src="https://www.npbfx-official.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/vi.png">&nbsp;Việt
+                                        </a>
+                                    </li>
+																		                                    <!-- <li class="icl-ar">
+                                        <a href="http://www.npbfx.com/ar/">
+                                            <img class="iclflag" src="https://www.npbfx-official.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ar.png">&nbsp;Арабский
+                                        </a>
+                                    </li> -->
+																		                                    <li class="icl-ru">
+                                        <a href="http://www.npbfx.com/fr/">
+                                            <img class="iclflag" src="https://www.npbfx-official.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png">&nbsp;Français
+                                        </a>
+                                    </li>
+																		                                    <!-- <li class="icl-cn">
+                                        <a href="http://www.npbfx.com/cn/">
+                                            <img class="iclflag" src="https://www.npbfx-official.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/cn.png">&nbsp;Французкий
+                                        </a>
+                                    </li> -->
+																		                                    <li class="icl-in">
+                                        <a href="http://www.npbfx.com/hi/">
+                                            <img class="iclflag" src="https://www.npbfx-official.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/in.png">&nbsp;हिन्दी
+                                        </a>
+                                    </li>
+																		                                    <!-- <li class="icl-ru">
+                                        <a href="http://www.npbfx-official.com/">
+                                            <img class="iclflag" src="https://www.npbfx-official.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png">&nbsp;Русский
+                                        </a>
+                                    </li> -->
+									                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+							
+                <a class="chat" href="https://mynpb.nl/cwibrureg?referer1=f3c22df5" id="consult_link" onClick="ga('send', 'event', 'KnopkaRegHead', 'Podtverdit');">Зарегистрироваться</a>
+                <a class="chat" href="https://mynpb.nl/cwibrulogin?referer1=f3c22df5" id="consult_link" onClick="ga('send', 'event', 'KnopkaLK', 'Podtverdit');">Вход в личный кабинет</a>
+                <div class="clr"></div>
+            </div>
+            <div class="clr"></div>
+			<div class="contacts-phones">
+				<div class="phone-1">+44 800 069-84-70</div>
+				<div class="phone-2"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e38a8d858ca38d9381859bcd808c8e">[email&#160;protected]</a></div>
+			</div>
+            <div class="contacts">
+                <a class="chat" href="#" onclick="javascript:jivo_api.open(); return false;">Онлайн чат</a>
+                    <!--                     <span></span>
+                 -->
+                <!--                     <span class="email">info@npbfx.com</span>
+                 -->
+					<span class="email"><a href="/npbfx/callback/">Обратный звонок</a></span>
+            </div>
+            <div class="clr"></div>
+        </div>
+        <div class="clr"></div>
+	</div>
+	<div class="top-menu">
+		<div class="limit">
+			<ul id="menu-verxnee-menyu" class="menu"><li id="menu-item-165401" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-165401"><a href="https://www.npbfx-official.com/trading/account_types/">Брокерские услуги</a>
+<ul class="sub-menu">
+	<li id="menu-item-155490" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155490"><a href="https://www.npbfx-official.com/trading/account_types/">Рынок FOREX и CFD</a></li>
+	<li id="menu-item-165402" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-165402"><a href="https://www.npbfx-official.com/trading/software/metatrader_4_windows/">Торговые платформы</a></li>
+	<li id="menu-item-155492" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155492"><a href="https://www.npbfx-official.com/trading/deposit_withdrawal/">Ввод и вывод средств</a></li>
+	<li id="menu-item-155493" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155493"><a href="https://www.npbfx-official.com/trading/trading_account/">Открыть торговый счет</a></li>
+	<li id="menu-item-156015" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-156015"><a href="https://www.npbfx-official.com/trading/demo-account/">Открыть учебный счет</a></li>
+	<li id="menu-item-155494" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155494"><a href="https://www.npbfx-official.com/trading/stp_technology/">Технология STP/NDD</a></li>
+	<li id="menu-item-155495" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155495"><a href="https://www.npbfx-official.com/trading/specification/">Спецификации контрактов</a></li>
+	<li id="menu-item-163173" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-163173"><a href="https://www.npbfx-official.com/trading/swap-free/">Swap Free счет</a></li>
+	<li id="menu-item-155497" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155497"><a href="https://www.npbfx-official.com/trading/documents/">Документы</a></li>
+	<li id="menu-item-155498" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155498"><a href="https://www.npbfx-official.com/trading/faq/">Вопросы и ответы</a></li>
+</ul>
+</li>
+<li id="menu-item-176077" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-176077"><a href="https://www.npbfx-official.com/investments/zulutrade/">Управление капиталом</a>
+<ul class="sub-menu">
+	<li id="menu-item-189390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189390"><a href="https://npbinvest.com/ru">NPB Invest</a></li>
+	<li id="menu-item-160701" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-160701"><a href="https://www.npbfx-official.com/investments/zulutrade/">Социальный трейдинг ZuluTrade</a></li>
+</ul>
+</li>
+<li id="menu-item-165403" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-165403"><a href="https://www.npbfx-official.com/analytics/analytical_portal/">Аналитика</a>
+<ul class="sub-menu">
+	<li id="menu-item-155509" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155509"><a href="https://www.npbfx-official.com/analytics/analytical_portal/">Аналитический портал</a></li>
+	<li id="menu-item-155505" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155505"><a href="https://www.npbfx-official.com/analytics/trading_signals/">Торговые сигналы</a></li>
+	<li id="menu-item-155506" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155506"><a href="https://www.npbfx-official.com/analytics/calculator/">Калькулятор трейдера</a></li>
+	<li id="menu-item-155508" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155508"><a href="https://www.npbfx-official.com/analytics/analytical_chat/">Чат с аналитиком</a></li>
+	<li id="menu-item-157706" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-157706"><a href="https://www.npbfx-official.com/analytics/rub/">Российский рубль</a></li>
+	<li id="menu-item-157707" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-157707"><a href="https://www.npbfx-official.com/analytics/oil/">Нефть</a></li>
+	<li id="menu-item-157708" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-157708"><a href="https://www.npbfx-official.com/analytics/metals/">Драгоценные металлы</a></li>
+	<li id="menu-item-158461" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-158461"><a href="https://www.npbfx-official.com/analytics/current_quotes/">Котировки online</a></li>
+</ul>
+</li>
+<li id="menu-item-165404" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-165404"><a href="https://www.npbfx-official.com/education/courses_seminars/">Обучение</a>
+<ul class="sub-menu">
+	<li id="menu-item-155517" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155517"><a href="https://www.npbfx-official.com/education/courses_seminars/">Курсы и семинары</a></li>
+	<li id="menu-item-155515" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155515"><a href="https://www.npbfx-official.com/education/demo_account/">Учебный счет</a></li>
+	<li id="menu-item-155516" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155516"><a href="https://www.npbfx-official.com/education/trading_strategies/">Торговые стратегии</a></li>
+	<li id="menu-item-159551" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-159551"><a href="https://www.npbfx-official.com/education/video-education/">Видеокурсы трейдинга</a></li>
+	<li id="menu-item-159649" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-159649"><a href="https://www.npbfx-official.com/education/book/">Электронный учебник</a></li>
+</ul>
+</li>
+<li id="menu-item-165407" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-165407"><a href="https://www.npbfx-official.com/promotions/promotions/">Акции</a>
+<ul class="sub-menu">
+	<li id="menu-item-177027" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-177027"><a href="https://www.npbfx-official.com/promotions/loyalty-program/">Подарки за сделки</a></li>
+	<li id="menu-item-177025" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-177025"><a href="https://www.npbfx-official.com/promotions/cashback/">Кешбэк до 60%</a></li>
+	<li id="menu-item-177026" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-177026"><a href="https://www.npbfx-official.com/promotions/compensation-promo/">Возмещение убытков</a></li>
+	<li id="menu-item-167983" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-167983"><a href="https://www.npbfx-official.com/promotions/account-transfer/">Перенос счета</a></li>
+	<li id="menu-item-155521" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155521"><a href="https://www.npbfx-official.com/promotions/contests/">Конкурсы</a></li>
+</ul>
+</li>
+<li id="menu-item-158448" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-158448"><a href="https://www.npbfx-official.com/partnership/partner/">Партнерство</a>
+<ul class="sub-menu">
+	<li id="menu-item-101434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101434"><a href="https://www.npbfx-official.com/partners/partner/">Партнерская программа</a></li>
+	<li id="menu-item-158444" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-158444"><a href="https://www.npbfx-official.com/partnership/promotional_materials/">Промо-материалы</a></li>
+</ul>
+</li>
+<li id="menu-item-165408" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-165408"><a href="https://www.npbfx-official.com/npbfx/about/">О компании</a>
+<ul class="sub-menu">
+	<li id="menu-item-113532" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-113532"><a href="https://www.npbfx-official.com/npbfx/about/">Общие сведения</a></li>
+	<li id="menu-item-113531" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-113531"><a href="https://www.npbfx-official.com/npbfx/advantages/">Почему NPBFX?</a></li>
+	<li id="menu-item-113552" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-113552"><a href="https://www.npbfx-official.com/npbfx/license/">Лицензии и регулирование</a></li>
+	<li id="menu-item-101208" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-101208"><a href="https://www.npbfx-official.com/category/npbfx/news/">Новости компании</a></li>
+	<li id="menu-item-139133" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-139133"><a href="https://www.npbfx-official.com/npbfx/vacancies/">Вакансии</a></li>
+	<li id="menu-item-101260" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-101260"><a href="https://www.npbfx-official.com/npbfx/contacts/">Контакты</a></li>
+</ul>
+</li>
+</ul>			<div class="clr"></div>			
+		</div>
+	</div>
+
+		<div class="slider">
+		<div class="limit">
+			<div class="royalslider-box">
+				<div class="royalSlider">
+										<div class="royalslider-slide rsContent">
+						<img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/ny2022-slide-ru.png" class="rsImg" />
+						<div class="rsABlock royalslider-caption">
+																					<a href="https://mynpb.nl/cwibrupromo?referer1=f3c22df5" class="more">Открыть счет</a>						</div>
+					</div>
+										<div class="royalslider-slide rsContent">
+						<img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/mail-slide-ru.jpg" class="rsImg" />
+						<div class="rsABlock royalslider-caption">
+																					<a style="margin-top:180px;" href="https://www.npbfx-official.com/promotions/loyalty-program/" class="more">Узнать больше</a>						</div>
+					</div>
+										<div class="royalslider-slide rsContent">
+						<img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/account-transfer2.png" class="rsImg" />
+						<div class="rsABlock royalslider-caption">
+																					<a href="https://www.npbfx-official.com/promotions/account-transfer/" class="more">Перенести счет</a>						</div>
+					</div>
+										<div class="royalslider-slide rsContent">
+						<img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/cashback3.jpg" class="rsImg" />
+						<div class="rsABlock royalslider-caption">
+																					<a href="https://www.npbfx-official.com/promotions/cashback/" class="more">Узнать больше</a>						</div>
+					</div>
+										<div class="royalslider-slide rsContent">
+						<img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/slider-video-education-final5.jpg" class="rsImg" />
+						<div class="rsABlock royalslider-caption">
+																					<a style="margin-top:180px;" href="https://mynpb.nl/cwibrureg?referer1=f3c22df5" class="more">Начать обучение</a>						</div>
+					</div>
+										<div class="royalslider-slide rsContent">
+						<img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/slider-signals-final.jpg" class="rsImg" />
+						<div class="rsABlock royalslider-caption">
+																					<a style="margin-top:180px;" href="https://mynpb.nl/cwibrureg?referer1=f3c22df5" class="more">Получать сигналы</a>						</div>
+					</div>
+										<div class="royalslider-slide rsContent">
+						<img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2016/04/slider-RUB-DOL-3.jpg" class="rsImg" />
+						<div class="rsABlock royalslider-caption">
+																					<a style="margin-top:180px;" href="/traders/trade_conditions/" class="more">Все условия торговли</a>						</div>
+					</div>
+										<div class="royalslider-slide rsContent">
+						<img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/partnership_ru.jpg" class="rsImg" />
+						<div class="rsABlock royalslider-caption">
+																					<a style="margin-top:180px;" href="https://www.npbfx-official.com/partnership/partner/" class="more">Узнать больше</a>						</div>
+					</div>
+									</div>
+				<!-- <a href="#" class="royalslider-prev">prev</a>
+				<a href="#" class="royalslider-next">next</a> -->
+			</div>
+									<div class="buttons">
+									<a href="https://mynpb.nl/cwibrureg?referer1=f3c22df5" class="btn btn_arrows">Открыть учебный счет<span></span></a>
+									<a href="https://mynpb.nl/cwibrureg?referer1=f3c22df5" class="btn btn_arrows">Открыть торговый счет<span></span></a>
+							</div>
+					</div>
+	</div>
+			<div class="block white">
+		<div class="platforms limit">
+			<div class="title">
+				<a href="/traders/software/metatrader_4_windows/">Торговые платформы</a>
+				<p>Доступ на финансовые рынки через лучшие торговые платформы с любого удобного для Вас устройства: PC, iPhone, iPad, Android или интернет-браузер.</p>
+			</div>
+			
+			<!-- 			<a class="item nbp" href="https://my.npbfx.com/mt4web?lang=ru">MetaTrader 4 Web-терминал</a>
+									<a class="item android" href="155406">MetaTrader 4 для Android</a>
+						<a class="item ios" href="155406">MetaTrader 4 для iOS</a>
+						<a class="item windows" href="155406">MetaTrader 4 для Windows</a>
+			 -->
+				
+						
+			<a class="item nbp" href="https://my.npbfx.com/mt4web?lang=ru">MetaTrader 4 Web-терминал</a>
+			<a class="item android" href="/trading/software/metatrader_4_android/">MetaTrader 4 для Android</a>
+			<a class="item ios" href="/trading/software/metatrader_4_ios/">MetaTrader 4 для iOS</a>
+			<a class="item windows" href="/trading/software/metatrader_4_windows/">MetaTrader 4 для Windows</a>
+			<div class="clr"></div>
+		</div>
+	</div>
+	<div class="block gray">
+		<div class="limit">
+			<div class="quotes">
+				<p>Котировки онлайн</p>
+				<div class="short-quotes">
+					<!-- <script type="text/javascript" src="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/ls/lscommons.js"></script>
+<script type="text/javascript" src="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/ls/lspushpage.js"></script> -->
+<style>.quotes_data, .time {text-align: center;}</style>
+<span class="date" id="quotes_clock" data-timezone="+3">15.01.2022 | 05:15:52  </span><span id="quotes_clock_prefix" class="date">(МСК)</span>
+<div class="account_select">
+	<label for="account_type">Тип счета:</label>
+	<select name="quotes_type" id="quotes_select">
+		<option value="3">Master</option>
+		<option value="2">Expert</option>
+		<option value="1">VIP</option>
+	</select>
+	<div class="clr"></div>
+</div>
+
+<div class="quotes-tab">
+	<table class="quotes_table">
+		<tr>
+			<th></th>
+			<th>Bid</th>
+			<th>Ask</th>
+			<th>Спред</th>
+		</tr>
+		<tr>
+			<td class="quotes_market">EURUSD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:EURUSD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:EURUSD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info3:EURUSD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">USDJPY</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:USDJPY" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:USDJPY" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info3:USDJPY" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">GBPUSD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:GBPUSD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:GBPUSD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info3:GBPUSD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">USDCHF</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:USDCHF" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:USDCHF" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info3:USDCHF" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">EURJPY</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:EURJPY" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:EURJPY" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info3:EURJPY" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">EURGBP</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:EURGBP" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:EURGBP" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info3:EURGBP" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">EURCHF</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:EURCHF" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:EURCHF" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info3:EURCHF" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">GBPJPY</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:GBPJPY" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:GBPJPY" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info3:GBPJPY" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">GBPCHF</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:GBPCHF" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:GBPCHF" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info3:GBPCHF" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">AUDUSD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:AUDUSD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:AUDUSD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info3:AUDUSD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">USDCAD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:USDCAD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:USDCAD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info3:USDCAD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">NZDUSD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:NZDUSD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:NZDUSD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info3:NZDUSD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">USDRUB</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:USDRUB" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info3:USDRUB" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info3:USDRUB" field="spread">-</div></td>
+		</tr>
+	</table>
+</div>
+<div class="quotes-tab">
+	<table class="quotes_table">
+		<tr>
+			<th></th>
+			<th>Bid</th>
+			<th>Ask</th>
+			<th>Спред</th>
+		</tr>
+		<tr>
+			<td class="quotes_market">EURUSD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:EURUSD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:EURUSD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info2:EURUSD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">USDJPY</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:USDJPY" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:USDJPY" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info2:USDJPY" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">GBPUSD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:GBPUSD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:GBPUSD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info2:GBPUSD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">USDCHF</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:USDCHF" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:USDCHF" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info2:USDCHF" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">EURJPY</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:EURJPY" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:EURJPY" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info2:EURJPY" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">EURGBP</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:EURGBP" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:EURGBP" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info2:EURGBP" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">EURCHF</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:EURCHF" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:EURCHF" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info2:EURCHF" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">GBPJPY</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:GBPJPY" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:GBPJPY" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info2:GBPJPY" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">GBPCHF</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:GBPCHF" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:GBPCHF" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info2:GBPCHF" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">AUDUSD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:AUDUSD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:AUDUSD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info2:AUDUSD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">USDCAD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:USDCAD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:USDCAD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info2:USDCAD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">NZDUSD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:NZDUSD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:NZDUSD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info2:NZDUSD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">USDRUB</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:USDRUB" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info2:USDRUB" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info2:USDRUB" field="spread">-</div></td>
+		</tr>
+	</table>
+</div>
+<div class="quotes-tab active">
+	<table class="quotes_table">
+		<tr>
+			<th></th>
+			<th>Bid</th>
+			<th>Ask</th>
+			<th>Спред</th>
+		</tr>
+		<tr>
+			<td class="quotes_market">EURUSD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:EURUSD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:EURUSD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info1:EURUSD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">USDJPY</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:USDJPY" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:USDJPY" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info1:USDJPY" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">GBPUSD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:GBPUSD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:GBPUSD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info1:GBPUSD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">USDCHF</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:USDCHF" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:USDCHF" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info1:USDCHF" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">EURJPY</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:EURJPY" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:EURJPY" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info1:EURJPY" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">EURGBP</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:EURGBP" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:EURGBP" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info1:EURGBP" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">EURCHF</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:EURCHF" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:EURCHF" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info1:EURCHF" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">GBPJPY</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:GBPJPY" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:GBPJPY" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info1:GBPJPY" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">GBPCHF</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:GBPCHF" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:GBPCHF" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info1:GBPCHF" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">AUDUSD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:AUDUSD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:AUDUSD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info1:AUDUSD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">USDCAD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:USDCAD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:USDCAD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info1:USDCAD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">NZDUSD</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:NZDUSD" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:NZDUSD" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info1:NZDUSD" field="spread">-</div></td>
+		</tr>
+		<tr>
+			<td class="quotes_market">USDRUB</td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:USDRUB" field="bid">-</div></td>
+			<td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info1:USDRUB" field="offer">-</div></td>
+			<td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info1:USDRUB" field="spread">-</div></td>
+		</tr>
+	</table>
+</div>
+
+
+															
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script language="JavaScript" type="text/javascript">
+/*<![CDATA[*/
+
+document.onkeydown = checkEscape;
+document.onkeypress = checkEscape;
+function checkEscape(e) {
+	if(!e) e = event;
+	if (e.keyCode == 27) 
+    return false;
+}
+var page = new PushPage();
+page.context.setDebugAlertsOnClientError(true);
+page.context.setDomain("npbfx-official.com");
+page.onEngineCreation = function(engine){
+	engine.connection.setLSHost("ls-quotes.npbfx-official.com");
+	engine.connection.setLSPort(3120);
+	engine.connection.setAdapterName("NEFTEPROM");
+    engine.changeStatus("STREAMING");
+}
+page.bind();
+page.createEngine("StocksApp", "https://www.npbfx-official.com/wp-content/themes/npbfxinfo/ls/", "SHARE_SESSION", true);
+	
+$(function(){
+	//var currencies = ["EURUSD","USDJPY","GBPUSD","EURJPY","EURGBP","EURCHF","GBPJPY","GBPCHF","NZDUSD","AUDUSD","USDCAD"];
+	$('select#quotes_select').on('change', function(){
+		var type = parseInt($(this).val());
+		$('.quotes-tab').eq(type - 1).addClass('active').siblings().removeClass('active');
+		/*
+		$('.quotes_table').html('<tr><th></th><th>Bid</th><th>Ask</th><th>Спред</th></tr>');
+		currencies.forEach(function(item,i,arr){
+			$('.quotes_table').append('<tr><td class="quotes_market">'+item+'</td><td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info'+type+':'+item+'" field="bid">-</div></td><td class="quotes_data"><div source="lightstreamer" table="stockstable" item="info'+type+':'+item+'" field="offer">-</div></td><td class="quotes_data"> <div source="lightstreamer" table="stockstable" item="info'+type+':'+item+'" field="spread">-</div></td></tr>');			
+		});
+		*/
+		//loadTable();
+	})
+});
+function loadTable() {
+	var table = new OverwriteTable(null, null, "MERGE");
+	table.setDataAdapter("STOCKS");
+	table.setSnapshotRequired(true);
+	table.onItemUpdate = updateItem;
+	table.onChangingValues = changingValues;
+	table.setRequestedMaxFrequency(1.0);
+	page.addTable(table, "stockstable");
+}
+loadTable();
+function updateItem(item, updateInfo){
+	if(updateInfo != null) {
+    	updateInfo.addField("#bid_state", getFieldState("bid", updateInfo), true);
+        updateInfo.addField("#offer_state", getFieldState("offer", updateInfo), true);
+	}
+}
+function changingValues(item, itemUpdate){
+	if(itemUpdate != null) {
+    	itemUpdate.setHotTime(1000);
+        itemUpdate.setHotToColdTime(200);
+		updateFieldColor("bid", itemUpdate);
+        updateFieldColor("offer", itemUpdate);
+	}
+}
+function updateFieldColor(fieldName, itemUpdate) {
+	var fieldState = itemUpdate.getServerValue("#" + fieldName + "_state");
+    if(fieldState != "NOT_CHANGED") {
+    	var hotColor = (fieldState == "UP") ? "#009b7a" : "#f58426";
+        var coldColor = (fieldState == "UP") ? "#009b7a" : "#f58426";
+        var hotBackgroundColor = "";
+        var coldBackgroundColor = "";
+        itemUpdate.setAttribute(fieldName, hotColor, coldColor, "color");
+        itemUpdate.setAttribute(fieldName, hotBackgroundColor, coldBackgroundColor, "backgroundColor");
+	}
+}
+function getFieldState(fieldName, updateInfo) {
+	var state = "NOT_CHANGED";
+    var oldValue = updateInfo.getOldValue(fieldName);
+    if(oldValue == null) {
+    	state = "UP";
+	}
+	else if (updateInfo.isValueChanged(fieldName)) {
+    	state = (oldValue > updateInfo.getNewValue(fieldName)) ? "DOWN" : "UP";
+	}
+    return state;
+}
+/*]]>*/
+</script>
+					<a href="https://www.npbfx-official.com/analytics/current_quotes/">Все валюты</a>
+				</div>
+			</div>
+			<div class="terms">
+				<p><a href="https://www.npbfx-official.com/trading/account_types/">Трейдинг на финансовых рынках с NPBFX</a></p>
+								<ul>
+										<li><span>1</span>Более 40 торговых инструментов, включая металлы и нефть</li>
+										<li><span>2</span>Вывод всех клиентских сделок на межбанк по технологии STP</li>
+										<li><span>3</span>Агрегированная FX-ликвидность от крупнейших банков Tier 1</li>
+										<li><span>4</span>Кредитное плечо до 1:500, Swap Free счета без комиссий</li>
+										<li><span>5</span>Разрешены и приветствуются скальпинг и HFT-трейдинг</li>
+										<li><span>6</span>Быстрые способы ввода и вывода средств без комиссий</li>
+										<li><span>7</span>Компенсационный фонд до $20,000 на каждого клиента</li>
+										<li><span>8</span>Профессиональный аналитический портал и лента новостей</li>
+										<li><span>9</span>Инвестиционные сервисы и копи-трейдинг: ZuluTrade, MyDigiTrade</li>
+										<li><span>10</span>Круглосуточная поддержка клиентов в режиме 24/5 на 8 языках</li>
+									</ul>
+								<a href="https://www.npbfx-official.com/trading/account_types/" class="btn btn_mini">Условия торговли и типы счетов</a>
+			</div>
+			<div class="clr"></div>			
+		</div>
+	</div>
+	<div class="block white large_padding">
+		<div class="limit">
+			<script type="text/javascript">$(document).ready(function(){$('body.home .large_padding .news').css('min-height', $('body.home .large_padding .benefits').height()-32);});</script>
+			<div class="news">
+				<p style="color: #009b7a; font-size: 22px; margin: 0 0 15px; font-weight: bold;"><a href="https://www.npbfx-official.com/category/npbfx/news/">Новости компании</a></p>
+								<div class="item">
+					<span class="date">14.01.2022<span>(17:10)</span></span>
+					<a href="https://www.npbfx-official.com/npbfx/news/obsluzhivanie-klientov-17-yanvarya-2022-goda-prazdnovanie-dnya-martina-lyutera-kinga-v-ssha/" class="title">Обслуживание клиентов 17 января 2022 года (празднование Дня Мартина Лютера Кинга в США)</a>
+									</div>				
+								<div class="item">
+					<span class="date">24.12.2021<span>(16:16)</span></span>
+					<a href="https://www.npbfx-official.com/npbfx/news/grafik-obsluzhivaniya-v-period-novogodnix-prazdnikov-s-27-12-2021-po-04-01-2022/" class="title">График обслуживания в период Новогодних праздников с 27.12.2021 по 04.01.2022</a>
+									</div>				
+								<div class="item">
+					<span class="date">17.12.2021<span>(20:33)</span></span>
+					<a href="https://www.npbfx-official.com/npbfx/news/grafik-obsluzhivaniya-v-period-rozhdestvenskix-prazdnikov-23-12-2021-i-24-12-2021/" class="title">График обслуживания в период Рождественских праздников 23.12.2021 и 24.12.2021</a>
+									</div>				
+								<div class="item">
+					<span class="date">01.12.2021<span>(17:24)</span></span>
+					<a href="https://www.npbfx-official.com/npbfx/news/kompaniya-meta-platforms-inc-otlozhila-izmenenie-simvola-tikera/" class="title">Компания Meta Platforms, Inc. отложила изменение символа тикера</a>
+									</div>				
+								<div class="social-buttons">
+										<a href="https://www.facebook.com/NPBFX-1015835968454691/" target="_blank" class="fb" title="Мы в FaceBook" rel="nofollow">Мы в FaceBook</a>
+										<a href="https://vk.com/npbfx" target="_blank" class="vk" title="Вконтакте" rel="nofollow">Вконтакте</a>
+										<a href="https://twitter.com/npbforex" target="_blank" class="tw" title="twitter" rel="nofollow">twitter</a>
+										<a href="https://www.youtube.com/channel/UCPODY0x_MPKQDbBSjn_JZkA" target="_blank" class="yt" title="YouTube" rel="nofollow">YouTube</a>
+									</div>
+			</div>
+			<div class="benefits">
+				<p>Брокерские технологии и надежность</p>
+								<a href="/traders/interbank_cover/" class="item">
+					<span class="image">
+						<span>
+							<img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2014/11/timer.png" alt="Мгновенное исполнение сделок на серверах в Equinix NY4, Нью-Йорк" />						
+						</span>
+					</span>
+					Мгновенное исполнение сделок на серверах в Equinix NY4, Нью-Йорк				</a>
+								<a href="/traders/interbank_cover/" class="item">
+					<span class="image">
+						<span>
+							<img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2014/11/chart.png" alt="Доступ к ликвидности финансовых рынков по технологии STP" />						
+						</span>
+					</span>
+					Доступ к ликвидности финансовых рынков по технологии STP				</a>
+								<a href="/deposit_withdrawal/deposit_funds/" class="item third">
+					<span class="image">
+						<span>
+							<img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2014/11/laptop.png" alt="Онлайн пополнение счета и вывод средств без комиссий" />						
+						</span>
+					</span>
+					Онлайн пополнение счета и вывод средств без комиссий				</a>
+								<a href="/traders/interbank_cover/" class="item">
+					<span class="image">
+						<span>
+							<img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2014/11/handshake.png" alt="Брокерская модель без конфликта интересов с клиентами" />						
+						</span>
+					</span>
+					Брокерская модель без конфликта интересов с клиентами				</a>
+								<a href="/npbfx/about/" class="item">
+					<span class="image">
+						<span>
+							<img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2014/11/bank.png" alt="Профессиональное обслуживание - с нами зарабатывают с 1996 года" />						
+						</span>
+					</span>
+					Профессиональное обслуживание - с нами зарабатывают с 1996 года				</a>
+								<a href="/traders/trade_conditions/" class="item third">
+					<span class="image">
+						<span>
+							<img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2014/11/checkmates.png" alt="Использование любых торговых стратегий без ограничений" />						
+						</span>
+					</span>
+					Использование любых торговых стратегий без ограничений				</a>
+								<div class="clr"></div>
+				<p class="more"><a href="/npbfx/advantages/">Еще 10 причин открыть торговый счет в NPBFX</a></p>
+			</div>
+			<div class="clr"></div>
+		</div>
+	</div>
+	<div class="block gray main-calendar-box">
+		<div class="limit">
+			<div class="calendar">
+				<div class="trader-wrap">
+					<p><a href="/news_and_analytics/calculator/">Калькулятор трейдера</a></p>
+						<div class="trader-box">
+		<div class="trader-box-wrap">
+			<div class="inputs-row">
+				<!--trader-tools-->
+												<div class="tools-row">
+					<label class="table-style">
+						<span class="cell-style">Инструмент</span>
+						<div class="cell-style">
+							<select name="request_tools" class="not-chosen">
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="EURUSD" selected="selected">EURUSD</option>
+																																																					<option data-mask="9{1,9}.999" data-placeholder="0.000" value="USDJPY" >USDJPY</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="GBPUSD" >GBPUSD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="USDCHF" >USDCHF</option>
+																																																					<option data-mask="9{1,9}.999" data-placeholder="0.000" value="EURJPY" >EURJPY</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="EURGBP" >EURGBP</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="EURCHF" >EURCHF</option>
+																																																					<option data-mask="9{1,9}.999" data-placeholder="0.000" value="GBPJPY" >GBPJPY</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="GBPCHF" >GBPCHF</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="AUDUSD" >AUDUSD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="USDCAD" >USDCAD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="NZDUSD" >NZDUSD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="AUDCAD" >AUDCAD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="AUDCHF" >AUDCHF</option>
+																																																					<option data-mask="9{1,9}.999" data-placeholder="0.000" value="AUDJPY" >AUDJPY</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="AUDNZD" >AUDNZD</option>
+																																																					<option data-mask="9{1,9}.999" data-placeholder="0.000" value="CHFJPY" >CHFJPY</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="EURAUD" >EURAUD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="EURCAD" >EURCAD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="GBPCAD" >GBPCAD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="GBPAUD" >GBPAUD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="EURNZD" >EURNZD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="GBPNZD" >GBPNZD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="NZDCAD" >NZDCAD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="NZDCHF" >NZDCHF</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="CADCHF" >CADCHF</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="NZDJPY" >NZDJPY</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="CADJPY" >CADJPY</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="USDRUB" >USDRUB</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="EURRUB" >EURRUB</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="USDDKK" >USDDKK</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="USDHKD" >USDHKD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="USDMXN" >USDMXN</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="USDNOK" >USDNOK</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="USDSEK" >USDSEK</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="USDSGD" >USDSGD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="USDTRY" >USDTRY</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="USDZAR" >USDZAR</option>
+																																																					<option data-mask="9{1,9}.9999" data-placeholder="0.0000" value="XAGUSD" >XAGUSD</option>
+																																																					<option data-mask="9{1,9}.999" data-placeholder="0.000" value="XAUUSD" >XAUUSD</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="XBRUSD" >XBRUSD</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="XTIUSD" >XTIUSD</option>
+																																																					<option data-mask="9{1,9}.999" data-placeholder="0.000" value="XNGUSD" >XNGUSD</option>
+																																																					<option data-mask="9{1,9}.999" data-placeholder="0.000" value="BCHUSD" >BCHUSD</option>
+																																																					<option data-mask="9{1,9}.999" data-placeholder="0.000" value="BTCUSD" >BTCUSD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="DSHUSD" >DSHUSD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="ETHUSD" >ETHUSD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="LTCUSD" >LTCUSD</option>
+																																																					<option data-mask="9{1,9}.99999" data-placeholder="0.00000" value="XRPUSD" >XRPUSD</option>
+																																																					<option data-mask="9{1,9}.9" data-placeholder="0.0" value="ASX200" >ASX200</option>
+																																																					<option data-mask="9{1,9}.9" data-placeholder="0.0" value="STOXX50" >STOXX50</option>
+																																																					<option data-mask="9{1,9}.9" data-placeholder="0.0" value="CAC40" >CAC40</option>
+																																																					<option data-mask="9{1,9}.9" data-placeholder="0.0" value="DAX30" >DAX30</option>
+																																																					<option data-mask="9{1,9}.9" data-placeholder="0.0" value="HSI50" >HSI50</option>
+																																																					<option data-mask="9{1,9}.9" data-placeholder="0" value="NIKKEI225" >NIKKEI225</option>
+																																																					<option data-mask="9{1,9}.9" data-placeholder="0.0" value="IBEX35" >IBEX35</option>
+																																																					<option data-mask="9{1,9}.9" data-placeholder="0.0" value="FTSE100" >FTSE100</option>
+																																																					<option data-mask="9{1,9}.9" data-placeholder="0.0" value="S&P500" >S&P500</option>
+																																																					<option data-mask="9{1,9}.9" data-placeholder="0.0" value="NASDAQ100" >NASDAQ100</option>
+																																																					<option data-mask="9{1,9}.9" data-placeholder="0" value="DJI30" >DJI30</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#AAPL" >#AAPL</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#AMZN" >#AMZN</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#BA" >#BA</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#DIS" >#DIS</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#F" >#F</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#FB" >#FB</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#GS" >#GS</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#INTC" >#INTC</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#JNJ" >#JNJ</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#JPM" >#JPM</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#KO" >#KO</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#MCD" >#MCD</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#MS" >#MS</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#MRVL" >#MRVL</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#MSFT" >#MSFT</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#NKE" >#NKE</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#NFLX" >#NFLX</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#NVDA" >#NVDA</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#PFE" >#PFE</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#PEP" >#PEP</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#PYPL" >#PYPL</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#TSLA" >#TSLA</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#UBER" >#UBER</option>
+																																																					<option data-mask="9{1,9}.99" data-placeholder="0.00" value="#V" >#V</option>
+															</select>
+						</div>
+					</label>
+				</div>
+								<!--trader-tools-->
+				
+				<!--trader-volume-->
+				<div class="volume-row">
+					<label class="table-style">
+						<span class="cell-style">Объем</span>
+						<div class="cell-style">
+							<input type="text" name="request_volume" placeholder="0.00" value="1" />
+						</div>
+					</label>
+				</div>
+				<!--trader-volume-->
+				
+				<!--trader-direct-->
+												<div class="direct-row">
+					<label class="table-style">
+						<span class="cell-style">Направление</span>
+						<div class="cell-style">
+														<select name="request_direct" class="not-chosen">
+																	<option value="buy" >Покупка (Buy)</option>
+																	<option value="sell" >Продажа (Sell)</option>
+															</select>
+						</div>
+					</label>
+				</div>
+								<!--trader-direct-->
+				
+				<!--trader-open-->
+				<div class="open-row">
+					<label class="table-style">
+						<span class="cell-style">Цена открытия</span>
+						<div class="cell-style">
+							<input type="text" name="request_open" placeholder="0.00000" />
+						</div>
+					</label>
+				</div>
+				<!--trader-open-->
+			
+				<!--trader-close-->
+				<div class="close-row">
+					<label class="table-style">
+						<span class="cell-style">Цена закрытия</span>
+						<div class="cell-style">
+							<input type="text" name="request_close" placeholder="0.00000" />
+						</div>
+					</label>
+				</div>
+				<!--trader-close-->
+				
+				<!--trader-leverage-->
+												<div class="leverage-row">
+					<label class="table-style">
+						<span class="cell-style">Кредитное плечо</span>
+						<div class="cell-style">
+							<select name="request_leverage" class="not-chosen">
+																										<option value="1" >1:1</option>
+																										<option value="5" >1:5</option>
+																										<option value="10" >1:10</option>
+																										<option value="25" >1:25</option>
+																										<option value="50" >1:50</option>
+																										<option value="100" >1:100</option>
+																										<option value="200" selected="selected">1:200</option>
+																										<option value="500" >1:500</option>
+																										<option value="1000" >1:1000</option>
+															</select>
+						</div>
+					</label>
+				</div>
+								<!--trader-leverage-->
+			
+				<!--trader-currence-->
+												<div class="currence-row">
+					<label class="table-style">
+						<span class="cell-style">Валюта счета</span>
+						<div class="cell-style">
+														<select name="request_currence" class="not-chosen">
+																	<option value="USD" >USD</option>
+																	<option value="EUR" >EUR</option>
+																	<option value="RUB" >RUB</option>
+															</select>
+						</div>
+					</label>
+				</div>
+								<!--trader-currence-->
+			
+				<!--trader-run-->
+				<div class="run-row">
+					<label>
+						<a class="trader-run btn btn_arrows btn_small" href="#">Рассчитать<span class="arrow"></span></a>
+					</label>
+				</div>
+				<!--trader-run-->
+			</div>
+			
+			<!--results-row-->
+			<div class="results-row"></div>
+			<!--results-row-->
+		</div>
+	</div>
+					</div>
+			</div>
+		</div>
+	</div>
+	<div class="block white">
+		<div class="limit banner">
+			<p><a href="https://mynpb.nl/cwibrulogin?referer1=f3c22df5"><img class="aligncenter size-full wp-image-157057" src="https://www.npbfx-official.com/wp-content/uploads/2016/12/947153.gif" alt="947153_rounded" width="947" height="153" /></a></p>
+
+		</div>
+		</div>	<div class="block gray">
+		<div class="limit content">
+			<h2>Трейдинг на финансовых рынках через NPBFX (NEFTEPROMBANKFX)</h2>
+<p>Компания NPBFX осуществляет брокерское обслуживание клиентов на рынках FOREX и CFD c 1996 года. Котировки предоставляются по 40 валютным парам, а также по золоту (XAUUSD), серебру (XAGUSD), нефти сортов Brent (XBRUSD) и WTI (XTIUSD), природному газу (XNGUSD). Компания NPBFX обслуживает клиентов по брокерской модели и является посредником между клиентом и поставщиками ликвидности на межбанковском валютном рынке. Компания предоставляет клиентам возможность использовать любые торговые стратегий без каких-либо ограничений: от классических торговых стратегий до алгоритмического и HFT-трейдинга.</p>
+		</div>
+	</div>
+        <div class="block pay-types">
+        <div class="limit content">
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/visa_pos_2019.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/visa_pos_electron_2019.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/vpay_2019.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2016/12/Mastercard-logo.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2016/12/Maestro-logo.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/mir.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2016/12/qiwi_logo_40.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2016/12/wmlogo.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2014/10/pay_ym.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/moneta.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2016/11/fasapay-150.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/alfaclick.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/psb38.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/rsb.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/Skrill.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/neteller.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/fakturaru39.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/pochta_rossii.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/payoma.png" alt="" /></span>
+                </div>
+                            <div class="item">
+                    <span><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2016/12/pk_swift_wire_transfer.jpg" alt="" /></span>
+                </div>
+                        <div class="item last-child">
+                <span><a href="/trading/deposit_withdrawal/">Все способы</a></span>
+            </div>
+            <div class="clr"></div>
+        </div>
+    </div>
+    	<div class="block pre-footer">
+		<div class="limit">
+			<ul>
+				<li>Брокерские услуги</li>
+				<li id="menu-item-165167" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-165167"><a href="/trading/account_types/">Рынок FOREX и CFD</a></li>
+<li id="menu-item-165168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-165168"><a href="/trading/software/metatrader_4_windows/">Торговые платформы</a></li>
+<li id="menu-item-165169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-165169"><a href="/trading/deposit_withdrawal/">Ввод и вывод средств</a></li>
+<li id="menu-item-165170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-165170"><a href="/trading/trading_account/">Открыть торговый счет</a></li>
+<li id="menu-item-165171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-165171"><a href="/trading/demo-account/">Открыть учебный счет</a></li>
+<li id="menu-item-165172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-165172"><a href="/trading/stp_technology/">Технология STP/NDD</a></li>
+<li id="menu-item-165173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-165173"><a href="/trading/specification/">Спецификации контрактов</a></li>
+<li id="menu-item-165174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-165174"><a href="/trading/swap-free/">Swap Free счет</a></li>
+<li id="menu-item-165175" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-165175"><a href="/trading/documents/">Документы</a></li>
+<li id="menu-item-165176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-165176"><a href="/trading/faq/">Вопросы и ответы</a></li>
+			</ul>
+			<ul>
+				<li>Инвестиции</li>
+				<li id="menu-item-189389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189389"><a href="https://npbinvest.com/ru">NPB Invest</a></li>
+<li id="menu-item-160703" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-160703"><a href="https://www.npbfx-official.com/investments/zulutrade/">Социальный трейдинг ZuluTrade</a></li>
+			</ul>
+			<ul>
+				<li>Аналитика</li>
+				<li id="menu-item-155499" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155499"><a href="https://www.npbfx-official.com/analytics/analytical_portal/">Аналитический портал</a></li>
+<li id="menu-item-155500" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155500"><a href="https://www.npbfx-official.com/analytics/trading_signals/">Торговые сигналы</a></li>
+<li id="menu-item-155501" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155501"><a href="https://www.npbfx-official.com/analytics/calculator/">Калькулятор трейдера</a></li>
+<li id="menu-item-155504" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155504"><a href="https://www.npbfx-official.com/analytics/analytical_chat/">Чат с аналитиком</a></li>
+<li id="menu-item-157705" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-157705"><a href="https://www.npbfx-official.com/analytics/rub/">Российский рубль</a></li>
+<li id="menu-item-157704" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-157704"><a href="https://www.npbfx-official.com/analytics/oil/">Нефть</a></li>
+<li id="menu-item-157703" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-157703"><a href="https://www.npbfx-official.com/analytics/metals/">Драгоценные металлы</a></li>
+<li id="menu-item-158460" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-158460"><a href="https://www.npbfx-official.com/analytics/current_quotes/">Котировки online</a></li>
+			</ul>
+			<ul>
+				<li>Обучение</li>
+				<li id="menu-item-155514" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155514"><a href="https://www.npbfx-official.com/education/courses_seminars/">Курсы и семинары</a></li>
+<li id="menu-item-155512" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155512"><a href="https://www.npbfx-official.com/education/demo_account/">Учебный счет</a></li>
+<li id="menu-item-155513" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-155513"><a href="https://www.npbfx-official.com/education/trading_strategies/">Торговые стратегии</a></li>
+<li id="menu-item-159550" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-159550"><a href="https://www.npbfx-official.com/education/video-education/">Видеокурсы трейдинга</a></li>
+<li id="menu-item-159648" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-159648"><a href="https://www.npbfx-official.com/education/book/">Электронный учебник</a></li>
+			</ul>
+			<ul>
+				<li>Партнерство</li>
+				<li id="menu-item-158447" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-158447"><a href="https://www.npbfx-official.com/partnership/partner/">Партнерская программа</a></li>
+<li id="menu-item-158446" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-158446"><a href="https://www.npbfx-official.com/partnership/promotional_materials/">Промо-материалы</a></li>
+			</ul>
+			<ul class="last">
+				<li>О компании</li>
+				<li id="menu-item-113529" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-113529"><a href="https://www.npbfx-official.com/npbfx/about/">Общие сведения</a></li>
+<li id="menu-item-113530" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-113530"><a href="https://www.npbfx-official.com/npbfx/advantages/">Почему NPBFX?</a></li>
+<li id="menu-item-113551" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-113551"><a href="https://www.npbfx-official.com/npbfx/license/">Лицензии и регулирование</a></li>
+<li id="menu-item-101209" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-101209"><a href="https://www.npbfx-official.com/category/npbfx/news/">Новости компании</a></li>
+<li id="menu-item-139132" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-139132"><a href="https://www.npbfx-official.com/npbfx/vacancies/">Вакансии</a></li>
+<li id="menu-item-98199" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-98199"><a href="https://www.npbfx-official.com/npbfx/contacts/">Контакты</a></li>
+			</ul>
+			<div class="clr"></div>
+		</div>
+	</div>
+	<div class="footer block">
+		<div class="limit">
+						<div class="links">
+								<div class="image-wrap wrap  no-hover-img" >
+					<a href="https://www.npbfx-official.com/deposit_withdrawal/deposit_funds/">
+						<span><div class="image-wrap" style="height: 57px; width: 125px"><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/ver_visa_2019.png"></div></span>
+						<span>Verified by VISA</span>
+					</a>
+				</div>
+								<div class="image-wrap wrap  no-hover-img" >
+					<a href="https://www.npbfx-official.com/deposit_withdrawal/deposit_funds/">
+						<span><div class="image-wrap" style="height: 57px; width: 125px"><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2014/10/ver_mc.png"></div></span>
+						<span>MasterCard SecureCode</span>
+					</a>
+				</div>
+								<div class="image-wrap wrap  hover-img" >
+					<a href="https://www.npbfx-official.com/npbfx/news/kompaniya-npbfx-tretij-raz-priznana-luchshim-stp-brokerom-po-itogam-golosovaniya-iaft-awards-2019/">
+						<span><div class="image-wrap" style="height: 88px; width: 69px"><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/award_88.png"><img width="69" height="88" src="https://www.npbfx-official.com/wp-content/uploads/sites/43/award_88.png" class="attachment-full size-full" alt="" /></div></span>
+						<span>Лучший STP брокер 2019</span>
+					</a>
+				</div>
+								<div class="image-wrap wrap last hover-img" >
+					<a target="_blank" rel="nofollow" href="http://financialcommission.org/ru/">
+						<span><div class="image-wrap" style="height: 90px; width: 90px"><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2015/12/fincom.png"><img width="107" height="107" src="https://www.npbfx-official.com/wp-content/uploads/sites/43/2015/12/fincom.png" class="attachment-full size-full" alt="" /></div></span>
+						<span>The Financial Commission</span>
+					</a>
+				</div>
+								<div class="image-wrap wrap  no-hover-img" >
+					<a href="https://npbfx-official.com">
+						<span><div class="image-wrap" style="height: 84px; width: 130px"><img src="https://www.npbfx-official.com/wp-content/uploads/sites/43/vmt_light2.png"></div></span>
+						<span>Verify My Trade</span>
+					</a>
+				</div>
+								<div class="clr"></div>
+			</div>
+						<div class="r-side">
+				<div class="search">
+					<form action="https://www.npbfx-official.com" method="get">
+						<input maxlength="60" name="s" type="text" placeholder="Поиск по сайту" />
+						<input type="image" src="https://www.npbfx-official.com/wp-content/themes/npbfx_official_com/images/btn_search.png" alt="Найти" />
+					</form>
+				</div>
+			</div>
+			<div class="l-side">
+				<p style="text-align: left;">©1996–2021 NPBFX Group</p>
+<p style="text-align: left;">NPBFX is a trading name of NMarkets Limited.<br />
+The services on the website are provided and regulated by NMarkets Limited a company incorporated in Saint Vincent and the Grenadines and registered by the Financial Services Authority with company number 24454 IBC 2018 with registered office at Suite 305, Griffith Corporate Centre, Beachmont, Kingstown, Saint Vincent and the Grenadines based company which is regulated by the laws of that country.</p>
+<p style="text-align: left;">Partner company NM Financial Solutions Limited, office address: Suite 1, 55 Pentland Crescent, Rosewell EH24 9BJ, United Kingdom, with company registered number 11654366, established the partnership agreement with NMarkets Limited to serve as payment processing company and provides content and operates the business. NM Financial Solutions Limited is processing only for the payments from credit and debit cards.</p>
+<p style="text-align: left;">Компания NPBFX является членом The Financial Commission — международной организации, которая занимается разрешением споров в сфере финансовых услуг на международном валютном рынке.</p>
+<p style="text-align: left;">Бренд NPBFX (NEFTEPROMBANKFX) осуществляет обслуживание клиентов c 1996 года. До 2016 года обслуживание частных трейдеров и корпоративных клиентов осуществлялось от лица банка с лицензией Банка России (АО «Нефтепромбанк»).</p>
+<p style="text-align: left;">Региональные ограничения: NPBFX не предоставляет услуги резидентам Канады и США.</p>
+<p style="text-align: left;">NPBFX <a href="https://www.npbfx-official.com/npbfx/policy_ru/" target="_blank" rel="noopener noreferrer">использует файлы &#171;cookie&#187;</a> с целью персонализации сервисов и повышения удобства пользования веб-сайтом. &#171;Cookie&#187; представляют собой небольшие файлы, содержащие информацию о предыдущих посещениях веб-сайта. Если вы не хотите использовать файлы &#171;cookie&#187;, измените настройки браузера. Подробнее &#8212; в нашей <a href="https://www.npbfx-official.com/npbfx/policy_ru/" target="_blank" rel="noopener noreferrer">Политике конфиденциальности</a>.</p>
+<p class="request" style="text-align: left;"><a href="#">Уведомление о рисках</a></p>
+			</div>
+			<div class="clr"></div>
+			<div class="hide_text">
+				<p>Торговля на финансовых рынках связана с существенными рисками, включая риск полной потери средств и другие затраты, и не может быть рекомендована всем. Клиент должен самостоятельно и осознанно решить, подходит ли ему этот вид деятельности, учитывая свои финансовые возможности, опыт в сфере инвестиций, склонность к риску и другие факторы. Любая информация, а также аналитические материалы, размещенные на данном сайте, являются рекомендациями общего характера. Их следует применять только с учетом Вашего личного финансового положения и инвестиционных целей. Пожалуйста, полностью ознакомьтесь с <a href="/wp-content/uploads/sites/25/Risk_disclosure.pdf">Уведомлением о рисках</a> прежде, чем приступить к работе.</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script> jQuery(function($){ $(".widget_meta a[href='https://www.npbfx-official.com/comments/feed/']").parent().remove(); }); </script><script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/www.npbfx-official.com\/wp-admin\/admin-ajax.php","text_wait":"\u0412\u0430\u0448 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0437\u0430\u043f\u0440\u043e\u0441 \u0435\u0449\u0435 \u043e\u0431\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442\u0441\u044f. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u043f\u043e\u0434\u043e\u0436\u0434\u0438\u0442\u0435 ...","text_valid":"\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430 \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043d\u043e \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043e\u0442\u0432\u0435\u0442.","text_multiple":"\u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u0432\u0430\u0440\u0438\u0430\u043d\u0442\u043e\u0432:","show_loading":"0","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.npbfx-official.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.1'></script>
+<script type='text/javascript' src='https://www.npbfx-official.com/wp-includes/js/wp-embed.min.js?ver=4.7.21'></script>
+
+
+
+<script type="text/javascript">
+	//33333648
+	jQuery(window).load(function(){
+		jQuery('#ninja_forms_form_9').submit(function(){
+			yaCounter33333648.reachGoal('WEBINAR_REG');
+		});
+		jQuery('#ninja_forms_form_17').submit(function(){
+			yaCounter33333648.reachGoal('PARTNER_REG');
+		});
+		jQuery('#ninja_forms_form_7').submit(function(){
+			yaCounter33333648.reachGoal('FEEDBACK_REQ');
+		});
+		jQuery('#ninja_forms_form_19').submit(function(){
+			yaCounter33333648.reachGoal('CALLBACK_REQ');
+		});
+		jQuery('#ninja_forms_form_20').submit(function(){
+			yaCounter33333648.reachGoal('VAC_REP');
+		});
+		jQuery('#ninja_forms_form_28').submit(function(){
+			yaCounter33333648.reachGoal('SEMINAR_REG');
+		});
+	});
+</script>
+
+<!-- Google remarketing -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 941869103;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/941869103/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- Google remarketing end -->
+</body>
+
+</html>

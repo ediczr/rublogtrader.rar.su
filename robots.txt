@@ -1,0 +1,7 @@
+Sitemap: https://traderblog.net/sitemap_index.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /telegram/
+Disallow: /?wordfence_lh
+Allow: /wp-admin/admin-ajax.php
