@@ -1,3 +1,5 @@
-Sitemap: https://rublogtrader.rar.su/sitemap_index.xml
-
 User-agent: *
+Allow: /
+sitemap: https://rublogtrader.rar.su/sitemap.xml
+sitemap: https://rublogtrader.rar.su/ror.xml
+sitemap: https://rublogtrader.rar.su/sitemap.html
